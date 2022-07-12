@@ -1,0 +1,16 @@
+C:\Users\adrie\RiderProjects\examblanc\examblanc\bin\Debug\net5.0\examblanc.exe
+C:\Users\adrie\RiderProjects\examblanc\examblanc\bin\Debug\net5.0\examblanc.deps.json
+C:\Users\adrie\RiderProjects\examblanc\examblanc\bin\Debug\net5.0\examblanc.runtimeconfig.json
+C:\Users\adrie\RiderProjects\examblanc\examblanc\bin\Debug\net5.0\examblanc.runtimeconfig.dev.json
+C:\Users\adrie\RiderProjects\examblanc\examblanc\bin\Debug\net5.0\examblanc.dll
+C:\Users\adrie\RiderProjects\examblanc\examblanc\bin\Debug\net5.0\ref\examblanc.dll
+C:\Users\adrie\RiderProjects\examblanc\examblanc\bin\Debug\net5.0\examblanc.pdb
+C:\Users\adrie\RiderProjects\examblanc\examblanc\obj\Debug\net5.0\examblanc.csproj.AssemblyReference.cache
+C:\Users\adrie\RiderProjects\examblanc\examblanc\obj\Debug\net5.0\examblanc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\RiderProjects\examblanc\examblanc\obj\Debug\net5.0\examblanc.AssemblyInfoInputs.cache
+C:\Users\adrie\RiderProjects\examblanc\examblanc\obj\Debug\net5.0\examblanc.AssemblyInfo.cs
+C:\Users\adrie\RiderProjects\examblanc\examblanc\obj\Debug\net5.0\examblanc.csproj.CoreCompileInputs.cache
+C:\Users\adrie\RiderProjects\examblanc\examblanc\obj\Debug\net5.0\examblanc.dll
+C:\Users\adrie\RiderProjects\examblanc\examblanc\obj\Debug\net5.0\ref\examblanc.dll
+C:\Users\adrie\RiderProjects\examblanc\examblanc\obj\Debug\net5.0\examblanc.pdb
+C:\Users\adrie\RiderProjects\examblanc\examblanc\obj\Debug\net5.0\examblanc.genruntimeconfig.cache
